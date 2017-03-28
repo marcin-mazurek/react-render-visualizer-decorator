@@ -1,3 +1,10 @@
+----------------------
+
+## Deprecated!
+This repo is depreacted. The library was renamed to *react-render-debugger* and is available here: <https://github.com/marcin-mazurek/react-render-debugger>
+
+------------------------
+
 React Render Visualizer Decorator
 ============
 A visual way to see what is (re)rendering and why.
